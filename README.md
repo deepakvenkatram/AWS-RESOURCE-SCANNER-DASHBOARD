@@ -1,3 +1,5 @@
+<img alt="gitleaks badge" src="https://img.shields.io/badge/protected%20by-gitleaks-blue"> ![Static Badge](https://img.shields.io/badge/Devops-Deepak%20Venkatram-Green)
+
 # AWS-RESOURCE-SCANNER-DASHBOARD
 This python script will report all the resource that a AWS ID is using into a csv file with the information like active/not,inuse/not used etc to make informed decision on the resources. The dashboard help you to visualize the resource in graphs and makes it more presentable. A example of the report is as below
 
